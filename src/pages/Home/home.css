@@ -1,0 +1,133 @@
+.login3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background: url('../../Images/background.png');
+  background-size: cover;
+  color: white;
+}
+
+.Login-logo3 img {
+  width: 350px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.Login-right3 {
+  background-color: rgba(19, 236, 236, 0.3);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+  padding: 20px;
+  width: 700px;
+  height: 550px;
+}
+
+.Login-right3 h1 {
+  font-family: 'Roboto Slab';
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.Login-right3 h2 {
+  font-family: 'Roboto Slab';
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.Dados3 {
+  margin-bottom: 40px;
+}
+
+.Login-right3 h4 {
+  font-family: 'Roboto Slab';
+  margin-top: 40px;
+  font-size: 15px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.Login-InputEmail3 {
+  display: flex;
+  align-items: center;
+  color: rgba(70, 69, 69, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 3px;
+  padding: 3px;
+  width: 80%;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.Login-InputEmail3 svg {
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.Login-InputEmail3 input {
+  background: transparent;
+  width: 100%;
+  outline-width: 0;
+  color: rgba(0, 0, 0, 0.7);
+  border: none;
+  font-size: 17px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Login-right3 button {
+  width: 80%;
+  background-color: #3d9db3;
+  color: #EFF2F5;
+  font-weight: 800;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 18px;
+  margin-top: 5px;
+  border: none;
+
+  outline-width: 0;
+}
+
+.Login-right3 button:hover {
+  transform: scale(1.05);
+}
+
+.Link-area3 li a {
+  text-decoration: none;
+  color: #EFF2F5;
+  font-weight: 800;
+  font-size: 18px;
+  border: none;
+  padding: 10px 250px 10px 250px;
+}
+
+li {
+  margin-top: 10px;
+  list-style-type: none;
+}
+
+.Link-area3 {
+  text-align: center;
+  width: 80%;
+  background-color: #3d9db3;
+  color: #EFF2F5;
+  font-weight: 800;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 18px;
+  margin-top: 5px;
+  border: none;
+
+  outline-width: 0;
+}
+
+.Link-area3:hover {
+  transform: scale(1.05);
+}
