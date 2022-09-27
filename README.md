@@ -1,17 +1,44 @@
 # Pokemon Login Screen
-<p>A Pokemon-themed login screen for a college assignment<p/>
 
-## Technologies used
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<div/>
+![3](https://user-images.githubusercontent.com/70298807/192550052-27b81192-1d95-436a-b08d-e9e62db27a2e.jpg)
+![4](https://user-images.githubusercontent.com/70298807/192550059-900fae47-45db-4afe-9523-44dd4e80cd43.jpg)
 
-##
+## This project
+This project was created to simulate a login screen
 
-## How to install
-<p> Run 'yarn start' on terminal<p/>
+## 🚀 GetStart
+
+These instructions will allow you to get a working copy of the project on your local machine for development purposes.
+
+### 🔧 Installation
+
+Clone the project:
+
+```
+git clone https://github.com/LucasLuisBorges/Login_Screen_Pokemon.git
+```
+
+install the dependencies
+
+```
+yarn install
+```
+
+Run the project:
+
+```
+yarn start
+```
+
+## 🛠️ Built with:
+
+* [React](https://pt-br.reactjs.org/) 
+
+---
+⌨️ with ❤️ per Lucas Luis Borges 😊
+
+
+
 
 
 
